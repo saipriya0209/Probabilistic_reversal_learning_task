@@ -1,6 +1,7 @@
 # Probabilistic_reversal_learning_task
 
 <b>1. This a probabilistic reversal learning task using PsychoPy. It is different from object alternation test in that the reward is probabilistic, i.e. it occurs only 80 % of the time for a correct response. This is in accordance with what is done by the Cambridge group ( https://doi.org/10.1523/JNEUROSCI.22-11-04563.2002 ).</b>
+
 <b>2. Contains a continuous, cumulative reward (in rupees) for each trail as we felt this will help keep the subjects engaged in the task.</b>
 
 Extract the repository to any folder. There are 2 ways to run it, in both mac as well as windows:
